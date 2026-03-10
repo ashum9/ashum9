@@ -116,25 +116,6 @@
 
 <br/>
 
-<!-- ========================================== -->
-<!--            GITHUB STATS                   -->
-<!-- ========================================== -->
-
-<br/>
-
-<div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ashum9&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</div>
-
-
-<br/>
-
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="40%" align="center" valign="top">
@@ -188,21 +169,3 @@
 
 
 
-
-
-<br/>
-
-<!-- ========================================== -->
-<!--           CLOSING GIF                     -->
-<!-- ========================================== -->
-
-<div align="center">
-  <img src="hxh.gif" alt="See ya!" width="800" />
-</div>
-
-<br/>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</div>
