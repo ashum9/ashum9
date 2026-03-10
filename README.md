@@ -12,49 +12,43 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+<table align="center" border="0" cellspacing="0" cellpadding="20" width="92%">
   <tr>
-    <td>
-
-<img align="right" src="about-me.gif" alt="About Me" width="480" />
-
-<img align="left" src="https://github.com/Art1ord/Art1ord/blob/main/assets/me.gif" alt="Me" width="300" />
-
-&nbsp;
-
-- 🧑 **Name:** Ashutosh Mishra
-- 📞 **Better call:** ashum
-- 💬 **Pronouns:** he / him
-- ❤️ **Loves:** Music, Dev, Daydreaming, Anime, Manga, Games
-- 🏆 **Achievements:** 3x Hackathon Winner
-- 🤝 **Open Source:** [MoFA Contributor](https://github.com/mofa-org/mofa/pulls?q=is%3Apr+is%3Aclosed+author%3Aashum9)
-- 💻 **Role:** Full Stack Web Developer
-- 🌍 **Based in:** India 🇮🇳
-- ⚡ **Currently:** Building cool things!
-- 🌱 **Learning:** Always something new
-- 🎧 **Vibing to:** Lofi beats
-
-<br/>
-
-**Thanks for reading about my personal stuff** 💯❤️‍🔥
-
-<br clear="both"/>
-
-  </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/me.gif" alt="Me" width="360" style="border-radius:12px" />
+    </td>
+    <td width="70%" valign="top">
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=100&color=58A6FF&center=true&vCenter=true&width=500&lines=Its+Ashutosh+MISHRA" alt="Its Ashutosh MISHRA" style="display:block; margin-bottom:-10px;" />
+</p>
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=200&color=FF6E6E&center=true&vCenter=true&width=400&lines=Better+call+me%3A+ashum+%F0%9F%91%BE" alt="Better call me: ashum" />
+</p>
+      <br/>
+      <div align="center" >
+              <table border="0" cellspacing="0" cellpadding="6" width="100%">
+        <tr><td>❤️</td><td><b>Loves:</b>&nbsp; Music · Daydreaming · Dev </td></tr>
+        <tr><td>🏆</td><td><b>Achievements:</b>&nbsp; 3× Hackathon Winner</td></tr>
+        <tr><td>🤝</td><td><b>Open Source:</b>&nbsp; <a href="https://github.com/mofa-org/mofa/pulls?q=is%3Apr+is%3Aclosed+author%3Aashum9">MoFA Contributor</a></td></tr>
+        <tr><td>💻</td><td><b>Role:</b>&nbsp; Dev/Web3</td></tr>
+        <tr><td>🌍</td><td><b>Based in:</b>&nbsp; India </td></tr>
+        <tr><td>⚡</td><td><b>Currently:</b>&nbsp; Building Synelar !</td></tr>
+        <tr><td>🌱</td><td><b>Learning:</b>&nbsp; Always something new</td></tr>
+      </table>
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/mofa-org/mofa/pulls?q=is%3Apr+is%3Aclosed+author%3Aashum9">
+          <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20MoFA-Contributor-58a6ff?style=for-the-badge&labelColor=0d1117" alt="MoFA Contributor" />
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-3x%20Winner-ff6e6e?style=for-the-badge&labelColor=0d1117" alt="3x Hackathon Winner" />
+      </p>
+      <br/>
+      <p align="center"><b>Thanks for reading about my personal stuff</b> 👾❤️‍🔥</p>
+    </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/mofa-org/mofa/pulls?q=is%3Apr+is%3Aclosed+author%3Aashum9">
-    <img src="https://img.shields.io/badge/🤝_MoFA_Contributor-see_my_PRs-58a6ff?style=for-the-badge&labelColor=0d1117" alt="MoFA Contributor" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Hackathon_Wins-3-ff6e6e?style=for-the-badge&labelColor=0d1117" alt="3x Winner" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/💻_Full_Stack-Developer-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Full Stack Dev" />
-</div>
 
 <br/>
 
@@ -203,7 +197,7 @@
 <!-- ========================================== -->
 
 <div align="center">
-  <img src = "hxh.gif" alt="See ya!" width="800" />
+  <img src="hxh.gif" alt="See ya!" width="800" />
 </div>
 
 <br/>
