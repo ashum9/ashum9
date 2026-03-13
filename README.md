@@ -134,10 +134,10 @@
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="40%" align="center" valign="top">
+    <td width="40%" align="center">
       <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/s.gif" alt="Contact" width="380" />
     </td>
-    <td width="60%" align="center" valign="top">
+    <td width="60%" align="center">
       <a href="https://instagram.com/ashum9.me">
         <img src="https://img.shields.io/badge/Instagram-ashum9.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
       </a>
@@ -154,9 +154,6 @@
         <img src="https://img.shields.io/badge/X_(Twitter)-ashum9x-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
       </a>
       <br/>
-      <a href="https://linkedin.com/in/ashum9">
-        <img src="https://img.shields.io/badge/LinkedIn-ashum9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-      </a>
   </tr>
 </table>
 
